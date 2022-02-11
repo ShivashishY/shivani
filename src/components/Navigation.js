@@ -5,7 +5,7 @@ import { Hamburger } from '../assets/Hamburger'
 import moon from '../assets/moon.png'
 import blog from '../assets/nav-blog.png'
 import floppy from '../assets/nav-floppy.png'
-import linkedin from '../assets/linkedin.png'
+import linkedin from '../assets/nav-linkedin.png'
 import projects from '../assets/nav-projects.png'
 import twitter from '../assets/nav-twitter.png'
 
