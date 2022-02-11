@@ -1,17 +1,19 @@
 import React from 'react'
 
-import netlify from '../../content/thumbnails/netlify.png'
-import gatsby from '../assets/gatsby.png'
-import github from '../assets/nav-github.png'
+import instagram from '../assets/instagram.png'
+import twitter from '../assets/twitter.png'
+import facebook from '../assets/facebook.png'
+import linkedin from '../assets/linkedin.png'
 
 const links = [
   { url: 'https://Shivaniyadav.substack.com//subscribe', label: 'Newsletter' },
   { url: 'https://shivani.gtsb.io/rss.xml', label: 'RSS' },
 ]
 const madeWithLinks = [
-  { url: 'https://twitter.com/ShivaniYadava', label: 'Twitter', icon: gatsby },
-  { url: 'https://www.facebook.com/ritu.yadav.7', label: 'Facebook', icon: github },
-  { url: 'https://www.instagram.com/ritz1204/', label: 'Instagram', icon: netlify },
+  { url: 'https://twitter.com/ShivaniYadava', icon: twitter },
+  { url: 'https://www.facebook.com/ritu.yadav.7', icon: facebook },
+  { url: 'https://www.instagram.com/ritz1204/', icon: instagram },
+  { url: 'https://www.linkedin.com/in/shivaniyadav/', icon: linkedin },
 ]
 
 export const Footer = () => {

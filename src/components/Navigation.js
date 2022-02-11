@@ -5,10 +5,10 @@ import { Hamburger } from '../assets/Hamburger'
 import moon from '../assets/moon.png'
 import blog from '../assets/nav-blog.png'
 import floppy from '../assets/nav-floppy.png'
-import github from '../assets/nav-github.png'
+import linkedin from '../assets/linkedin.png'
 import projects from '../assets/nav-projects.png'
 import twitter from '../assets/nav-twitter.png'
-import email from '../assets/nav-email.png'
+
 
 const mainNavItems = [
   { url: '/blog', icon: blog, label: 'Articles' },
@@ -17,7 +17,7 @@ const mainNavItems = [
 ]
 
 const socialNavItems = [
-  { url: 'https://www.linkedin.com/in/shivaniyadav/', icon: github, label: 'Linkedin' },
+  { url: 'https://www.linkedin.com/in/shivaniyadav/', icon: linkedin, label: 'Linkedin' },
   { url: 'https://twitter.com/shivaniyadava', icon: twitter, label: 'Twitter' },
 ]
 
