@@ -25,8 +25,7 @@ I’m a **Post Graduate in commerce** and started working after my master's degr
 -   💼 **Project & Operation Managr** at [Pixean](https://www.pixean.com/) currently working as **Client Relationship Manager** at [Stillsweb](https://stillsweb.com/) (Sub Product of Pixean)
 -   🌐 Exists somewhere on [Twitter](https://twitter.com/shivaniyadava), [Facebook](https://www.facebook.com/ritu.yadav.7), [Linkedin](https://www.linkedin.com/in/shivaniyadav/).
 -   🖥️ System Environment: Dark 🕶️ + Music 🎧 + Tea 🍵
--   ⚡ Languages Known: Speaks English, Hindi is my Native Language, Knows Bengala, Punjabi.
--   🏠 Hogwarts House: Gryffindor, Well who does not love this because of Harry Potter character?
+-   ⚡ Languages Known: Speaks English, Hindi is my Native Language.
 -   💬 Favorite Quote: "What makes innovative thinking happen?... I think it's really a mindset. You have to decide."
 
 ### Activites & Socities

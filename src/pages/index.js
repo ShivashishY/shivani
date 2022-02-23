@@ -7,7 +7,6 @@ import { Posts } from '../components/Posts'
 import { SEO } from '../components/SEO'
 import { getSimplifiedPosts } from '../utils/helpers'
 import config from '../utils/config'
-import floppy from '../assets/nav-floppy.png'
 import looking from '../assets/me.jpg'
 
 export default function WebsiteIndex({ data }) {
@@ -47,7 +46,9 @@ export default function WebsiteIndex({ data }) {
                 Download CV
               </Link>
  
-              
+              <Link to="https://github.com/ShivashishY/shivani/raw/main/src/assets/Shivani_Yadav_Portfolio.pdf" className="button">
+                Download Portfolio
+              </Link>
             </p>
           </div>
         </header>
